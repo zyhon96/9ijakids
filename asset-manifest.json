@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/9ijakids/static/css/main.fde08d8f.chunk.css",
+    "main.js": "/9ijakids/static/js/main.ef30cc2c.chunk.js",
+    "main.js.map": "/9ijakids/static/js/main.ef30cc2c.chunk.js.map",
+    "runtime-main.js": "/9ijakids/static/js/runtime-main.b71985e3.js",
+    "runtime-main.js.map": "/9ijakids/static/js/runtime-main.b71985e3.js.map",
+    "static/js/2.f2d4113f.chunk.js": "/9ijakids/static/js/2.f2d4113f.chunk.js",
+    "static/js/2.f2d4113f.chunk.js.map": "/9ijakids/static/js/2.f2d4113f.chunk.js.map",
+    "index.html": "/9ijakids/index.html",
+    "static/css/main.fde08d8f.chunk.css.map": "/9ijakids/static/css/main.fde08d8f.chunk.css.map",
+    "static/js/2.f2d4113f.chunk.js.LICENSE.txt": "/9ijakids/static/js/2.f2d4113f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/9ijakids/static/media/Inter-Thin.dbd13499.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b71985e3.js",
+    "static/js/2.f2d4113f.chunk.js",
+    "static/css/main.fde08d8f.chunk.css",
+    "static/js/main.ef30cc2c.chunk.js"
+  ]
+}
